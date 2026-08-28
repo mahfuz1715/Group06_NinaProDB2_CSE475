@@ -25,8 +25,6 @@ The project starts with dataset understanding and classical machine-learning bas
 
 **Dataset:** [NinaPro DB2 on Kaggle](https://www.kaggle.com/datasets/quddusikashaf/ninapro-db2)
 
-The same instructor-approved repetition-wise protocol is maintained throughout the project. Test repetitions remain separate from training, and all data-dependent preprocessing is fitted on the training side only.
-
 ---
 
 ## Project Flow
